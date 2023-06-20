@@ -14,7 +14,42 @@
   box-sizing: border-box;
 }
 
-.learn {
-  font-family: "Poppins", sans-serif;
-  color: var(--color-text);
+/* typographie */
+
+.learn{
+  font-family: "poppins", sans-serif;
+  color:var(--color-text);
+  
 }
+
+h1{
+  font-size: 2rem;
+  font-weight: 900;
+  
+}
+
+
+.card{
+  background-color: white;
+  box-shadow: 0 10px 29px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  max-width: 400px;
+}
+
+p{
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 0.9rem;
+}
+
+.o{
+  background: #f3f4f5;
+  border:none;
+}
+
+button{
+  color: white;
+  background-color: #7c48bf;
+  border:none;
+}
+
