@@ -96,6 +96,14 @@ input[type="checkbox"]{
   height:22px;
 }
 
+#passwordAlert, #emailAlert{
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: red;
+  text-transform:initial;
+
+}
+
 
 
 
